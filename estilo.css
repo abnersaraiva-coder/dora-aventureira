@@ -1,7 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Changa+One:ital@0;1&display=swap');
+
+
 body{
+
     background-color: blue;
 color: black;
 display: flex;
 justify-content: center;
 align-items: center;
+margin: 0;
+font-family: "Changa One", sans-serif;
+}
+button{
+    background-color: #FFFD8F;
+    color: bisque;
+    padding: 20px;
 }
